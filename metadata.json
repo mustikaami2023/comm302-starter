@@ -1,0 +1,6 @@
+{
+  "name": "TradingView — Markets Everywhere",
+  "description": "Real-time market tracker, financial charts, global indices, US stocks, crypto, and technical analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
